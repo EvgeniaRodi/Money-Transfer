@@ -18,7 +18,7 @@
 
 1. Создать новый проект в IntelliJ IDEA
 2.  Взять код из [Задачи №1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
-3. Написать код для приложения Money Transfer
+3. Написать [код](https://github.com/EvgeniaRodi/Money-Transfer/blob/master/src/Main.java) для приложения Money Transfer
 4. Запустить RUN
 5. Зафиксировать результат в отчете
 
